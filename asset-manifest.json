@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kamal-todolists/static/css/main.0f459e8d.css",
-    "main.js": "/kamal-todolists/static/js/main.62926a36.js",
+    "main.js": "/kamal-todolists/static/js/main.d0df8d20.js",
     "static/js/787.0d620448.chunk.js": "/kamal-todolists/static/js/787.0d620448.chunk.js",
     "static/media/logo.svg": "/kamal-todolists/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kamal-todolists/index.html",
     "main.0f459e8d.css.map": "/kamal-todolists/static/css/main.0f459e8d.css.map",
-    "main.62926a36.js.map": "/kamal-todolists/static/js/main.62926a36.js.map",
+    "main.d0df8d20.js.map": "/kamal-todolists/static/js/main.d0df8d20.js.map",
     "787.0d620448.chunk.js.map": "/kamal-todolists/static/js/787.0d620448.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f459e8d.css",
-    "static/js/main.62926a36.js"
+    "static/js/main.d0df8d20.js"
   ]
 }
